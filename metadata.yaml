@@ -1,0 +1,27 @@
+_repo: Isa-Pang-Bayani_17257
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17257-h/images/cover_b.jpg
+creator:
+  author:
+    agent_name: Arsciwals, Juan Lauro
+    alias: Arsciwals, J. L. (Juan Lauro)
+    gutenberg_agent_id: '7252'
+    url: http://www.gutenberg.org/2009/agents/7252
+description: ''
+gutenberg_issued: '2005-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17257'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Labor movement -- Philippines'
+- !lcsh 'Working class -- Philippines'
+- !lcsh 'Labor -- Philippines'
+title: Isa Pang Bayani
+url: http://www.gutenberg.org/ebooks/17257
